@@ -1,6 +1,5 @@
 # Traffic Sign Recognition
 This Project uses python and C++ to recognize traffic sign in urban environment.
-Visual Odometry
 
 ## Dependencies
 1. Python 3
